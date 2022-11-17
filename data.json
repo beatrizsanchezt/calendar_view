@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": "01",
+      "name": "leer",
+      "duration": 45,
+      "priority": 5,
+      "due date": "",
+      "iniTime": "8:30",
+      "pinned": "false"
+    },
+    {
+      "id": "02",
+      "name": "estudiar",
+      "duration": 3500,
+      "priority": 8,
+      "due date": "15/11/2022",
+      "pinned": "false"
+    },
+    {
+      "id": "03",
+      "name": "Bootcamp",
+      "duration": 60,
+      "priority": 5,
+      "due date": "15/11/2022",
+      "iniTime": "00:30",
+      "pinned": "true"
+    },
+    {
+      "id": "04",
+      "name": "Plann next day",
+      "duration": 30,
+      "priority": 5,
+      "due date": "15/11/2022",
+      "pinned": "true",
+      "iniTime": "20:00"
+    }
+  ]
+}
